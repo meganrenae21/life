@@ -1,55 +1,41 @@
-@cheeaun's life
+@meganrenae21's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-23/10/2015 Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
-- 10/01/2014-09/05/2014 First trip to US (SF and Portland)
-- 11/09/2014-21/09/2014 First trip to Germany (Berlin)
-- 28/10/2014-8/11/2014 First trip to Australia (Sydney)
-- 23/04/2015-01/05/2015 First trip to New Zealand (Auckland)
-- 09/05/2015-16/05/2015 Second trip to Germany (Düsseldorf and Cologne)
-- 27/06/2015-05/07/2015 First trip to France (Paris)
-- 30/07/2015 Dad passed away
-- 02/10/2015 First MacBook
-- 26/10/2015-17/11/2015 First trip to Japan (Tokyo) and second trip to US (SF)
-- 15/02/2016-31/12/2018 Senior Software Engineer (Tech in Asia)
-- 01/03/2016 Launched 1st iOS app on the App Store
-- 20/04/2016 Launched 1st Android app on Google Play
-- 20/06/2016 Featured on [Digital News Asia](https://www.digitalnewsasia.com/digital-economy/datasets-rest-us-datagovsg)
-- 23/06/2016 Featured on [Channel 8 News](http://www.channel8news.sg/news8/singapore/20160623-sg-ida-govt-data/2898746.html)
-- 23/09/2016-30/09/2016 Second trip to Japan (Tokyo)
-- 07/10/2016 Featured on [GovTech conference](https://twitter.com/heliumlife/status/784217428410544128)
-- 25/11/2016 Gave a [talk](https://www.youtube.com/watch?v=V0dKzbhtHpQ) at JSConf.Asia
-- 07/12/2016 Featured on [Tech In Asia Developer Spotlight](https://www.techinasia.com/talk/developer-spotlight-this-frontend-dev-wont-tell-you-where-to-start)
-- 06/05/2017 Featured on [We Build SG LIVE Podcast](https://live.webuild.sg/046-chee-aun-lim/)
-- 02/06/2017-10/06/2017 First trip to Hong Kong and Macau
-- 27/07/2017-31/07/2017 Third trip to Japan (Tokyo)
-- 26/10/2017 Fourth laptop/ultrabook/tablet (Chuwi)
-- 26/04/2018-05/05/2018 First trip to Taiwan (Taipei)
-- 18/05/2018-21/05/2018 First trip to South Korea (Seoul)
-- 07/06/2018-14/06/2018 Second trip to Hong Kong and Macau
-- 01/09/2018-27/11/2018 Coaching at [TechLadies bootcamp](http://www.techladies.co/)
-- 08/11/2018 Second MacBook (MacBook Air)
-- 11/02/2019-~ Senior Software Engineer (SWAT)
-- 31/08/2019-08/09/2019 Fourth trip to Japan (Fukuoka), second trip to South Korea (Seoul)
-- 29/11/2019-08/12/2019 Fifth trip to Japan (Tokyo, Kyoto and Osaka)
-- 07/02/2020-14/02/2020 First trip to Thailand (Bangkok)
+- 04/21/1987 - born in Tulsa, OK
+- 1987-1991 - baby megan renae
+- 1991 - moved to new house
+- 08/1991-05/1993 - kindergarten years
+- 08/1993-05/1999 - Limestone Elementary School
+- ~1998 Limestone Spelling Bee Champion
+- 08/1999-05/2001 - Clyde Boyd Junior High
+- 08/2001-05/2005 - Cleveland High School
+- ~06/2004-Oklahoma Youth Tour trip to Washington DC
+- 2001-2004 - High School Sports Reporter for the Cleveland American
+- 08/2001-05/2003 - Cleveland High School Student Council Representative
+- 06/2002-BASIC Student Council Workshop
+- 08/2003-05/2005 - Cleveland High School Student Council Historian
+- 07/2004-ADVANCED Student Council Workshop
+- ~2001-2005 Reporter for the Tiger's Tale monthly high school newspaper
+- ~2003-2005 Editor for the Tiger's Tale high school newspaper
+- ~10/2004-04/2005 - Cashier at $5 Shop in Tulsa, OK
+- ~5/21/2005 - Graduation from Cleveland High School
+- 08/2005-05/2007 - College at Oklahoma Christian University
+- 06/2006-08/2006 - Hospitality Clerk at Discoveryland! USA
+- ~07/2006 - Camp Counselor at Discoverland! summer camp
+- 05/2007-08/2007 - Youth Intern at Contact Church (Tulsa, OK)
+- 08/2007-12/2009 - Student at Oklahoma State University
+- 05/2008-08/2008 - Youth Intern at Contact Church (Tulsa, OK)
+- ~06/2009 - Mission trip to Japan
+- ~12/14/2009 - Graduation from Oklahoma State University
+- ~ 03/2011 - Moved in to first apartment in Tulsa OK
+- ~05/2010-01/2012 - Reporter at Oklahoma News Weekly
+- ~ 02/2012 - Moved in with parent's
+- ~ 06/2012-12/2013 - Freelance/temporary employee with several different short-term assignments
+- 05/2013 - Moved in to new apartment in Tulsa, OK
+- 01/28/2014-03/06/2015 - Accounting Assistant at Samson Resources in Tulsa, OK
+- 03/16/2015-1/11/2016 - Accounts Payable Clerk at St. John Health System / Ascension Health
+- 10/2015-05/2016 - CareerStep Student in Medical Billing and Coding
+- 07/2016 - Became Certified Professional Coder through AAPC (American Association of Professional Coders)
+- 08/2016-08/2018 - Patient Service Specialist at Select Physical Therapy in NE Oklahoma
+- 08/2018-~ Appeals Specialist at Health Care Service Corporation
+
