@@ -1,41 +1,41 @@
 @meganrenae21's life
 ===============
 
-- 04/21/1987 - born in Tulsa, OK
-- 1987-1991 - baby megan renae
-- 1991 - moved to new house
-- 08/1991-05/1993 - kindergarten years
-- 08/1993-05/1999 - Limestone Elementary School
+- 04/21/1987 born in Tulsa, OK
+- 1987-1991 baby megan renae
+- 1991 moved to new house
+- 08/1991-05/1993 kindergarten years
+- 08/1993-05/1999 Limestone Elementary School
 - ~1998 Limestone Spelling Bee Champion
-- 08/1999-05/2001 - Clyde Boyd Junior High
-- 08/2001-05/2005 - Cleveland High School
-- ~06/2004-Oklahoma Youth Tour trip to Washington DC
-- 2001-2004 - High School Sports Reporter for the Cleveland American
-- 08/2001-05/2003 - Cleveland High School Student Council Representative
+- 08/1999-05/2001 Clyde Boyd Junior High
+- 08/2001-05/2005 Cleveland High School
+- ~06/2004 Oklahoma Youth Tour trip to Washington DC
+- 2001-2004 High School Sports Reporter for the Cleveland American
+- 08/2001-05/2003 Cleveland High School Student Council Representative
 - 06/2002-BASIC Student Council Workshop
-- 08/2003-05/2005 - Cleveland High School Student Council Historian
-- 07/2004-ADVANCED Student Council Workshop
+- 08/2003-05/2005 Cleveland High School Student Council Historian
+- 07/2004 ADVANCED Student Council Workshop
 - ~2001-2005 Reporter for the Tiger's Tale monthly high school newspaper
 - ~2003-2005 Editor for the Tiger's Tale high school newspaper
-- ~10/2004-04/2005 - Cashier at $5 Shop in Tulsa, OK
-- ~5/21/2005 - Graduation from Cleveland High School
-- 08/2005-05/2007 - College at Oklahoma Christian University
-- 06/2006-08/2006 - Hospitality Clerk at Discoveryland! USA
-- ~07/2006 - Camp Counselor at Discoverland! summer camp
-- 05/2007-08/2007 - Youth Intern at Contact Church (Tulsa, OK)
-- 08/2007-12/2009 - Student at Oklahoma State University
-- 05/2008-08/2008 - Youth Intern at Contact Church (Tulsa, OK)
-- ~06/2009 - Mission trip to Japan
-- ~12/14/2009 - Graduation from Oklahoma State University
-- ~ 03/2011 - Moved in to first apartment in Tulsa OK
-- ~05/2010-01/2012 - Reporter at Oklahoma News Weekly
-- ~ 02/2012 - Moved in with parent's
-- ~ 06/2012-12/2013 - Freelance/temporary employee with several different short-term assignments
-- 05/2013 - Moved in to new apartment in Tulsa, OK
-- 01/28/2014-03/06/2015 - Accounting Assistant at Samson Resources in Tulsa, OK
-- 03/16/2015-1/11/2016 - Accounts Payable Clerk at St. John Health System / Ascension Health
-- 10/2015-05/2016 - CareerStep Student in Medical Billing and Coding
-- 07/2016 - Became Certified Professional Coder through AAPC (American Association of Professional Coders)
-- 08/2016-08/2018 - Patient Service Specialist at Select Physical Therapy in NE Oklahoma
+- ~10/2004-04/2005 Cashier at $5 Shop in Tulsa, OK
+- ~5/21/2005 Graduation from Cleveland High School
+- 08/2005-05/2007 College at Oklahoma Christian University
+- 06/2006-08/2006 Hospitality Clerk at Discoveryland! USA
+- ~07/2006 Camp Counselor at Discoverland! summer camp
+- 05/2007-08/2007 Youth Intern at Contact Church (Tulsa, OK)
+- 08/2007-12/2009 Student at Oklahoma State University
+- 05/2008-08/2008 Youth Intern at Contact Church (Tulsa, OK)
+- ~06/2009 Mission trip to Japan
+- ~12/14/2009 Graduation from Oklahoma State University
+- ~ 03/2011 Moved in to first apartment in Tulsa OK
+- ~05/2010-01/2012 Reporter at Oklahoma News Weekly
+- ~ 02/2012 Moved in with parent's
+- ~ 06/2012-12/2013 Freelance/temporary employee with several different short-term assignments
+- 05/2013 Moved in to new apartment in Tulsa, OK
+- 01/28/2014-03/06/2015 Accounting Assistant at Samson Resources in Tulsa, OK
+- 03/16/2015-1/11/2016 Accounts Payable Clerk at St. John Health System / Ascension Health
+- 10/2015-05/2016 CareerStep Student in Medical Billing and Coding
+- 07/2016 Became Certified Professional Coder through AAPC (American Association of Professional Coders)
+- 08/2016-08/2018 Patient Service Specialist at Select Physical Therapy in NE Oklahoma
 - 08/2018-~ Appeals Specialist at Health Care Service Corporation
 
