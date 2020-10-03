@@ -12,7 +12,7 @@
 - ~06/2004 Oklahoma Youth Tour trip to Washington DC
 - 2001-2004 High School Sports Reporter for the Cleveland American
 - 08/2001-05/2003 Cleveland High School Student Council Representative
-- 06/2002-BASIC Student Council Workshop
+- 06/2002- BASIC Student Council Workshop
 - 08/2003-05/2005 Cleveland High School Student Council Historian
 - 07/2004 ADVANCED Student Council Workshop
 - ~2001-2005 Reporter for the Tiger's Tale monthly high school newspaper
