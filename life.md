@@ -27,10 +27,10 @@
 - 05/2008-08/2008 Youth Intern at Contact Church (Tulsa, OK)
 - ~06/2009 Mission trip to Japan
 - ~12/14/2009 Graduation from Oklahoma State University
-- ~ 03/2011 Moved in to first apartment in Tulsa OK
+- ~03/2011 Moved in to first apartment in Tulsa OK
 - ~05/2010-01/2012 Reporter at Oklahoma News Weekly
-- ~ 02/2012 Moved in with parent's
-- ~ 06/2012-12/2013 Freelance/temporary employee with several different short-term assignments
+- ~02/2012 Moved in with parent's
+- ~06/2012-12/2013 Freelance/temporary employee with several different short-term assignments
 - 05/2013 Moved in to new apartment in Tulsa, OK
 - 01/28/2014-03/06/2015 Accounting Assistant at Samson Resources in Tulsa, OK
 - 03/16/2015-1/11/2016 Accounts Payable Clerk at St. John Health System / Ascension Health
