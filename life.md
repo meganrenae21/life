@@ -2,7 +2,7 @@
 ===============
 
 - 04/21/1987 born in Tulsa, OK
-- 1987-1991 baby megan renae
+- 04/1987-1991 baby megan renae
 - 1991 moved to new house
 - 08/1991-05/1993 kindergarten years
 - 08/1993-05/1999 Limestone Elementary School
